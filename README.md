@@ -1,1 +1,1 @@
-Klik [hier](opdrachtomschrijving/algemene%20omschrijving.html) voor de opdracht omschrijving.
+Klik [hier](opdrachtomschrijving/algemene%20omschrijving.md) voor de opdracht omschrijving.
