@@ -1,0 +1,83 @@
+body {
+  background-color: #e4f0ff;
+  font-family: Arial;
+  text-align: center;
+  margin: 0;
+}
+
+.titel {
+  font-family: "Gravitas One";
+  color: #29c7ca;
+  margin-top: 40px;
+}
+
+.info {
+  color: #555;
+  margin-bottom: 30px;
+}
+
+
+.cijfertabel {
+  border-collapse: collapse;
+  margin: auto;
+  margin-top: 20px;
+  width: 420px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 6px 15px rgba(0,0,0,0.1);
+}
+
+.cijfertabel th {
+  background-color: #29c7ca;
+  color: white;
+  padding: 12px;
+  font-size: 17px;
+}
+
+.cijfertabel td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.cijfertabel {
+  background-color: #f8fdfd;
+}
+
+.cijfertabel tr:hover {
+  background-color: #e6f7f7;
+  transition: 0.2s;
+}
+
+.slecht {
+  background-color: #ffd6d6;
+  font-weight: bold;
+}
+
+.goed {
+  background-color: #c8f7d4;
+  font-weight: bold;
+}
+
+a {
+  background-color: #29c7ca;
+  color: white;
+  margin-top: 30px;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 17px;
+}
+
+a:hover {
+  background-color: #1fa7a9;
+}
+
+.foot1 {
+    position: absolute;
+    bottom: 60px;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: large;
+}
