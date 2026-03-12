@@ -1,0 +1,212 @@
+p {
+
+  color: #444;
+
+  font-size: 22px;
+
+  font-family: Arial, sans-serif;
+
+}
+
+ 
+
+li {
+
+  color: #2f2f2f;
+
+  font-size: 17px;
+
+  font-family: Verdana, sans-serif;
+
+}
+
+ 
+
+body {
+
+  background-color: #eef2f7;
+
+}
+
+ 
+
+header {
+
+  color: #333;
+
+}
+
+ 
+
+h1 {
+
+  margin: auto;
+
+  background-color: #4fa3a5;
+
+  border-radius: 15px;
+
+  width: 450px;
+
+  text-align: center;
+
+  color: white;
+
+  padding: 10px;
+
+}
+
+ 
+
+.Specifiek {
+
+  width: 225px;
+
+  padding-left: 15px;
+
+  margin-left: 15px;
+
+  padding-bottom: 20px;
+
+  float: right;
+
+  font-style: italic;
+
+  background-color: #d7e3fc;
+
+  border-radius: 10px;
+
+  margin-top: 50px;
+
+  margin-bottom: 50px;
+
+  text-align: center;
+
+}
+
+ 
+
+.Profielpaginas {
+
+  width: 225px;
+
+  padding-left: 15px;
+
+  margin-left: 15px;
+
+  padding-bottom: 20px;
+
+  float: left;
+
+  font-style: italic;
+
+  background-color: #d7e3fc;
+
+  border-radius: 10px;
+
+  margin-top: 50px;
+
+  margin-bottom: 50px;
+
+}
+
+ 
+
+a:link,
+
+a:visited {
+
+  background-color: #4fa3a5;
+
+  color: white;
+
+  position: relative;
+
+  top: 25px;
+
+  margin-bottom: 25px;
+
+  height: 70px;
+
+  width: 200px;
+
+  text-align: center;
+
+  align-content: center;
+
+  text-decoration: none;
+
+  display: inline-block;
+
+  border-radius: 12px;
+
+  font-size: 17px;
+
+  font-family: Arial, sans-serif;
+
+}
+
+ 
+
+a:hover,
+
+a:active {
+
+  background-color: #3c7f80;
+
+}
+
+ 
+
+img {
+
+  width: 175px;
+
+  margin-top: 30px;
+
+  position: relative;
+
+  left: 45%;
+
+  border-radius: 15px;
+
+}
+
+ 
+
+button {
+
+  border: none;
+
+  padding: 8px;
+
+  background-color: #333;
+
+  color: white;
+
+  border-radius: 10px;
+
+  float: right;
+
+}
+.grote-sam {
+  padding: 30px;
+  border-radius: 50px;
+  position: absolute;
+  display: inline-block;
+  background-color: #d7e3fc;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 400px;
+  font-family: "Franklin Gothic Medium";
+}
+
+.foot1 {
+    position: absolute;
+    bottom: 65px;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: x-large;
+    font-weight: bolder;
+}
